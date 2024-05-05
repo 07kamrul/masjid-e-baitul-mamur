@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+Project Name: Masjid-E-Baitul Mamur
+URL: https://Masjid-E-BaitulMamur.com
+Author: Md Kamrul Hasan
 
-Template Name: UpConstruction
-Template URL: https://bootstrapmade.com/upconstruction-bootstrap-construction-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
