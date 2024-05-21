@@ -2545,6 +2545,7 @@ section {
   border-radius: 4px;
   padding: 10px 20px;
   border: 0;
+
   background-color: var(--color-secondary);
 }
 
